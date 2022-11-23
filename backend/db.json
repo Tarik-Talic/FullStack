@@ -1,0 +1,36 @@
+{
+  "laptop": [
+    {
+      "id": 1,
+      "name": "HP",
+      "model": "HP Spectre",
+      "color": "Black",
+      "screenSize": "15",
+      "price": 947
+    },
+    {
+      "id": 2,
+      "name": "Lenovo",
+      "model": "ThinkPad",
+      "color": "White",
+      "screenSize": 13.5,
+      "price": 1200
+    },
+    {
+      "id": 3,
+      "name": "Razer",
+      "model": "Blade Stealth",
+      "color": "Black/Green",
+      "screenSize": "15",
+      "price": 2100
+    },
+    {
+      "id": 4,
+      "name": "Macbook",
+      "model": "Macbook Air Pro",
+      "color": "Silver",
+      "screenSize": "15",
+      "price": 3500
+    }
+  ]
+}
